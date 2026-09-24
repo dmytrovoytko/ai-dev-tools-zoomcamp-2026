@@ -1,4 +1,4 @@
-# Mini-Kanban App
+# Sharable Private Kanban Boards
 
 Simple multi-user kanban built with Python (Flask) + HTMX + SQLite + PicoCSS.
 

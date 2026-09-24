@@ -1,4 +1,4 @@
-# Mini-Kanban App — v1 Specification
+# Sharable Private Kanban Boards — v1 Specification
 
 ## 1. Overview
 Simple multi-user kanban with Python + HTMX. Each user owns private boards. Any board can be shared read-only via link (no login required to view).
