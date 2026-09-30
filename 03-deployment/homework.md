@@ -49,8 +49,8 @@ Open the dashboard and repeat the task flow from Question 2 against the containe
 
 Which Docker option publishes a container's port to your machine?
 
-- `--expose` <--
-- `-p`
+- `--expose`
+- `-p` <--
 - `-v`
 - `--name`
 
